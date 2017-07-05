@@ -6,7 +6,7 @@ File include<br />
 『文档资料在线预览』<br />
 <br />
 <body style="background-image:url(upload/bg.png);background-size:100%;background-repeat:no-repeat;font-family:verdana;">
-<a href="./08fileinclude.php?file=1.txt">帮助文档</a><br />
+<a href="./fileinclude.php?file=1.txt">帮助文档</a><br />
 
 <?php
 if(isset($_GET['file']))
