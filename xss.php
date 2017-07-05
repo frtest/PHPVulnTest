@@ -11,7 +11,6 @@ Reflected xss<br />
 <input type="submit" name="submit" value="查询">
 </form>
 <?php
-//$s = @$_POST['s'];
 if(isset($_POST['s']))
 {
 $s = @$_POST['s'];
